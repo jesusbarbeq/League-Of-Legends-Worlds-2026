@@ -1,0 +1,6 @@
+# Los CSV de Oracle's Elixir NO se suben (pesan mucho; descárgalos de su web)
+data/*.csv
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
